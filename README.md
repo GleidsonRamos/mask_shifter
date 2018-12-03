@@ -7,10 +7,10 @@ This package provides a way to switch between two masks in a TextField
 Import the packages:
 
 ```dart
-import 'package:flutter_masked_text/flutter_masked_text.dart';
+import 'package:mask_shifter/mask_shifter.dart';
 ```
 
-## Is very simple to use:
+## Its very simple to use:
 
 Just pass the class as an input formatter.
 Example:

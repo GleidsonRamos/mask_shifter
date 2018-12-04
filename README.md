@@ -32,7 +32,7 @@ return TextField(
 ```
 
 There are two parameters, maskONE and maskTWO.
-maskONE must be the shorter mascara, and maskTWO the longest.
+maskONE must be the shorter mask, and maskTWO the longest.
 
 For help getting started with Flutter, view our online [documentation](https://flutter.io/).
 

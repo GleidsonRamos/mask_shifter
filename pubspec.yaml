@@ -1,8 +1,8 @@
 name: mask_shifter
-description: mask shifter between two masks
-version: 0.0.1
-author:
-homepage:
+description: Library to change the mask of a textfield automatically when the number of characters typed change
+version: 0.1.0
+author: Gleidson Ramos <gleidson.ramos.2013@gmail.com>
+homepage: https://github.com/GleidsonRamos/mask_shifter
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
